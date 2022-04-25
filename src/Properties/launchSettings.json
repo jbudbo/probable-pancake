@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "probable-pancake": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
